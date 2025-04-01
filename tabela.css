@@ -1,0 +1,22 @@
+table{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td{
+    margin:6px;
+    width: 80px;
+    text-align: center;
+}
+
+.titulodatabela{
+    background-color: #0d5188;
+    color: white;
+}
+ .ab{
+    background-color: #71cae6;
+    color:rgb(75,74,74);
+}
+.posição1{
+    background-color: #757676;
+}
